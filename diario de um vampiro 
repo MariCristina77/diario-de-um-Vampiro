@@ -1,4 +1,15 @@
-<h1> diario de um vampiro </h1>
+<!DOCTYPE html>
+ <html lang="pt-br">
+   <head>
+      <meta charset="UTF-8">
+      <title> diario de um vampiro </title>
+      <link rel="stylesheet" href="style.css"
+   </head>
+
+<body>
+<h1><strong> A biografia dw Sir . Diario de um vampiro</strong></h1>
+
+<h1><strong>diario de um vampiro </h1>
 
 <p> É uma serie de televisão americana de drama sobrenatural e fantasia 
 a serie é situada em Mystic Falls,Virginia uma pequena cidade fictícia assombrada por seres sobrenaturais de todas as espécies 
